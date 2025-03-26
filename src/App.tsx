@@ -1,5 +1,6 @@
-import React from "react";
+import * as _React from "react";
 import Portfolio from "./components/Portfolio";
+
 
 const App = () => {
     return (
